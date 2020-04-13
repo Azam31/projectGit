@@ -1,0 +1,11 @@
+Enter Repo deta
+Repo data on origin master
+
+<<<<<<< HEAD
+
+changes on Local for checking Conflict demo
+=======
+Hello this text iswritting fot 
+conflict demo.
+Changes on Remote
+>>>>>>> ae5b87da2d8880757f3a978117132649caa51526
